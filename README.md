@@ -4,7 +4,7 @@ A public Tableau dashboard on the Illinois Department of Public Health (IDPH) we
 
 **Live dashboard:** [SHARE: Sharing Health Assessment Results Electronically](https://dph.illinois.gov/data-statistics/iquery/share.html)
 
-![SHARE dashboard](SHARE_dashboard.png)
+   ![SHARE dashboard](SHARE%20Dashboard.png)
 
 ## About
 
