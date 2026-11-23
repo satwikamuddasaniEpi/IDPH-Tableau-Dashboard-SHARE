@@ -25,6 +25,17 @@ Users can filter by health category, health priority, health region, SHARE round
 * Reduced manual reporting burden by about 30%
 * Compiled SHIP, IPLAN, and CHNA evidence that supported IDPH's CDC Preventive Health and Health Services (PHHS) Block Grant work
 
+## Work completed
+
+The project makes local health departments' submitted community health priorities easier to review across Illinois:
+
+* Organized SHARE/IPLAN health-priority information into dashboard views of counts by category, mapped health regions and departments, category-specific priority lists, and department-level detail.
+* Added filters for SHARE round, category, priority, region, and individual local health department. Selecting a bar or map feature filters the other views, supporting interactive comparisons.
+* Published the dashboard on the IDPH website and used it to reduce manual reporting work by approximately 30%, as described above.
+* Compiled evidence from SHIP, IPLAN, and Community Health Needs Assessments (CHNAs) to support IDPH's PHHS Block Grant work.
+
+The dashboard reports priorities identified in local plans; it is not a measure of disease prevalence or a ranking of local health departments.
+
 ## Tools
 
 Tableau, SAS, Excel
